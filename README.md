@@ -7,4 +7,10 @@ The Repository is about typical Machine-Learning (ML) algorithms.
   - Regression
 - Unsupervised Learning
   - Clustering
--Reinforcement Learning
+- Reinforcement Learning
+
+## Aplication in ML
+- Computer Vision
+- Speech Recognition
+- Text analysis
+- Robotic control
