@@ -1,2 +1,3 @@
 # Machine-Learning
-The rep is about typical ML algorithms.
+The Repository is about typical Machine-Learning (ML) algorithms.
+
