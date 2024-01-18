@@ -2,7 +2,7 @@
 The Repository is about typical Machine-Learning (ML) algorithms.
 
 ## Types of Machine Learning Algorithms:
-- Supervised Learning
+- **Supervised Learning**
   - Classification
     - Random Forest
     - Decision Trees
@@ -11,7 +11,7 @@ The Repository is about typical Machine-Learning (ML) algorithms.
     - Linear Regression
     - Regression Trees
     - Non-Linear Regression
-- Unsupervised Learning
+- **Unsupervised Learning**
   - Clustering
     - K-means Clustering
     - K-nearest neighbors
