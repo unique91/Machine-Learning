@@ -22,3 +22,11 @@ The Repository is about typical Machine-Learning (ML) algorithms.
 - Speech Recognition
 - Text analysis
 - Robotic control
+
+## Getting Started
+```bash
+git clone https://github.com/unique91/Machine-Learning.git
+cd Machine-Learning
+python -m venv venv
+venv/Scripts/activate.bat
+pip install -r requirements.txt
