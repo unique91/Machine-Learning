@@ -50,3 +50,5 @@ data/*.zip
 .mypy_cache/
 .pytype/
 .pyre/
+
+todo.yaml
