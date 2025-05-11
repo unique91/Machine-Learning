@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+pip-wheel-metadata/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# VS Code Settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Python egg metadata
+*.egg-info/
+*.egg
+
+# Test and coverage files
+.coverage
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# PyInstaller
+dist/
+build/
+
+# Datasets (falls du große CSVs nicht versionieren willst)
+data/*.csv
+data/*.zip
+
+# Logs
+*.log
+
+# MyPy, Pyright, etc.
+.mypy_cache/
+.pytype/
+.pyre/
